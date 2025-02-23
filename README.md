@@ -109,8 +109,16 @@ If you find this project interesting and inspiring, please consider showing your
 Feel free to get in touch with me for any further queries or support, happy to help :)
 
 <hr>
+<div>
+ <!-- Follow the steps to download the nodejs -->
+<div> 
+   <h2><img src="https://github.com/Meetjain1/wanderlust/assets/133582566/20610b38-b287-4bf0-8f28-932b9c76163d" width="40" height="40"> NodeJs</h2>
+</div>
+
+Follow the following steps to download and install Nodejs 😊
 
  <!-- Cotributors -->
+<hr>
 <div>
   <h2><img src="https://github.com/Meetjain1/wanderlust/assets/133582566/20610b38-b287-4bf0-8f28-932b9c76163d" width="40" height="40"> Contributors</h2>
 </div>
